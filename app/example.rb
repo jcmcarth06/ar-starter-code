@@ -1,2 +1,7 @@
-class Example < ActiveRecord::Base
+class User < ActiveRecord::Base
+    
+end
+
+class Task < ActiveRecord::Base
+
 end
